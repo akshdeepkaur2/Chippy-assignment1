@@ -2,7 +2,7 @@
 //  SpaceShip.swift
 //  Chippy Game
 //
-//  Created by Rohit Kumar
+//  Created by akshdeep kaur
 //  
 //
 

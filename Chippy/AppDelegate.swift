@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ChippyGame
 //
-//  Created by Rohit Kumar
+//  Created by Akshdeep kaur
 
 import UIKit
 import AVFoundation
