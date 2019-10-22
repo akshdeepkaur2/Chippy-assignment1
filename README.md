@@ -4,3 +4,7 @@ https://larsbergqvist.wordpress.com/2015/09/16/adventures-in-swift-making-a-blas
 
 ![Alt text](https://larsbergqvist.files.wordpress.com/2015/09/blastermaster1.jpg "BlasterMaster")
 
+CHIPPY ASSIGNMENT GROUP
+AKSHDEEP KAUR - C0738118
+ARASHDEEP KAUR -
+VISHANK TANNA -
